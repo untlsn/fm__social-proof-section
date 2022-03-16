@@ -5,7 +5,15 @@ module.exports = {
   },
   theme: {
     colors: {
-      wierd: '#00ff00'
+      purple: '#532252',
+      gray: {
+        purple: '#F7F2F8',
+        text: '#8D898D',
+      },
+      light: {
+        purple: '#A66095',
+      },
+      star: '#EC9949',
     }
   },
 };
